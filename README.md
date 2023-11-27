@@ -20,7 +20,7 @@ I'm currently working as a SAP Operations Engineer in Turkey, where my journey i
 
 # 📫 Contact
 <br>
-For a quick response, DM me on [LinkedIn](www.linkedin.com/in/ece-akarsu-ba1318159).
+For a quick response, DM me on [LinkedIn](www.linkedin.com/in/ece-akarsu-ba1318159) .
 
 For professional inquiries, reach out via email at eceakrs@gmail.com.
 
