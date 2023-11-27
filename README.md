@@ -13,6 +13,7 @@ I'm currently working as a SAP Operations Engineer in Turkey, where my journey i
 
 # ✨ Fun Facts
 <br>
+
 * Jujutsu Kaisen is my favorite anime.
 * It hypes me up to listen to pop music while coding.
 * Java was my first programming language.
