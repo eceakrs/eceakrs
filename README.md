@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hey, I'm Ece 👋
+I'm a 23 year old developer based in Turkey, and I'm passionate about crafting digital experiences.
 
-<!--
-**eceakrs/eceakrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Stay updated with my journey on [LinkedIn](www.linkedin.com/in/ece-akarsu-ba1318159).
 
-Here are some ideas to get you started:
+###🔭 Current Endeavors
+<br>
+I'm currently working as a SAP Operations Engineer in Turkey, where my journey involves both building and learning. Here's what I'm currently focused on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* I'm engaged in exciting fullstack projects.
+* I'm exploring Python to enhance my skill set.
+* I'm an early riser, always driven and constantly learning in the tech world.
+
+###✨ Fun Facts
+<br>
+* Jujutsu Kaisen is my favorite anime.
+* It hypes me up to listen to pop music while coding.
+* Java was my first programming language.
+* I love using Visual Studio Code pets extension.
+
+###📫 Contact
+<br>
+For a quick response, DM me on [LinkedIn](www.linkedin.com/in/ece-akarsu-ba1318159).
+
+For professional inquiries, reach out via email at eceakrs@gmail.com.
+
